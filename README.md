@@ -7,4 +7,6 @@ MRI - Brain pre-processed <br /><br />
 ![Brain](U-Net-Architecture.png) ![Hist](patient-2-t1-training.png)<br /><br />
 
 
-![Brain](brain-preprocessed.png) ![Hist](patient-7-t1.png)<br /><br />
+```bash
+pip install foobar
+```
