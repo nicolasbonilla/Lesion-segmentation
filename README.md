@@ -2,8 +2,7 @@
 
 
 
-![Brain](U-Net-Architecture.png) 
-![Hist](segvid.gif)<br /><br />
+![Brain](U-Net-Architecture.png) <br />
 
 
 ```bash
