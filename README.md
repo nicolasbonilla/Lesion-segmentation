@@ -3,7 +3,7 @@
 
 
 ![Brain](U-Net-Architecture.png) 
-![Hist](MyMovie3.mp4)<br /><br />
+![Hist](segvid.gif)<br /><br />
 
 
 ```bash
