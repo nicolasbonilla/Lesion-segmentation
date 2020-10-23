@@ -2,7 +2,8 @@
 
 
 
-![Brain](U-Net-Architecture.png) ![Hist](patient-2-t1-training.png)<br /><br />
+![Brain](U-Net-Architecture.png) 
+![Hist](My movie.mp4)<br /><br />
 
 
 ```bash
